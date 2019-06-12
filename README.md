@@ -1,6 +1,6 @@
 # Personalized-Cancer-Diagnosis
-2017-KAGGLE ONLINE COMPETITION--  Personalized Medicine: Redefining Cancer Treatment -----------------------------
-    ---Predict the effect of Genetic Variants to enable Personalized Medicine
+2017-KAGGLE ONLINE COMPETITION--  Personalized Medicine: Redefining Cancer Treatment ---------------------------------
+    ----Predict the effect of Genetic Variants to enable Personalized Medicine
 
 1. Personalised Medicine-:
 - Here personalized Medicine refers to the idea of analyzing an individual patient's tumor to determine what combination of drugs will work best for that particular individual.For doing this, the thousands of genetic mutation in cancer tumor needs to be distinguished into            a. the mutations that contribute to tumor growth (drivers)                                                        
